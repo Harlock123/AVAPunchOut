@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/AVAPunchOut/AVAPunchOut.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/AVAPunchOut.Tests/AVAPunchOut.Tests.csproj" />
+  </Folder>
+</Solution>
